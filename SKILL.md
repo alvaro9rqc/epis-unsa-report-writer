@@ -1,8 +1,9 @@
 ---
-name: typst-report-spanish
-description: Guidelines and best practices for writing clear, concise, and consistent technical reports in Spanish following modular Typst templates.
+name: epis-unsa-report-writer
+description: Guidelines and best practices for writing academic and laboratory reports in Typst for EPIS-UNSA (Escuela Profesional de Ingeniería de Sistemas - Universidad Nacional de San Agustín).
 metadata:
   language: "es"
+  organization: "EPIS-UNSA"
   author: "skills-dev"
   version: "1.0.0"
 ---
